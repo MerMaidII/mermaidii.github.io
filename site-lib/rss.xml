@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Obsidian Vault</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 13 Jan 2026 22:21:46 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 13 Jan 2026 22:21:46 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[AmongUs mody animebaby]]></title><description><![CDATA[
+<a data-href="#Informacja o wersji gry" href="amongus-mody-animebaby.html#Informacja_o_wersji_gry_0" class="internal-link" target="_self" rel="noopener nofollow">Informacja o wersji gry</a>
+<br><a data-href="#Wymagane pliki do pobrania" href="amongus-mody-animebaby.html#Wymagane_pliki_do_pobrania_0" class="internal-link" target="_self" rel="noopener nofollow">Wymagane pliki do pobrania</a>
+<br><a data-href="#Instalacja (Windows 11)" href="amongus-mody-animebaby.html#Instalacja_(Windows_11)_0" class="internal-link" target="_self" rel="noopener nofollow">Instalacja (Windows 11)</a> <br><a data-href="#- Steam" href="amongus-mody-animebaby.html#-_Steam_0" class="internal-link" target="_self" rel="noopener nofollow">- Steam</a>
+<br><a data-href="#- EpicGames" href="#- EpicGames" class="internal-link" target="_self" rel="noopener nofollow">- EpicGames</a> <br><a data-href="#PIERWSZE URUCHOMIENIE ‼️" href="amongus-mody-animebaby.html#PIERWSZE_URUCHOMIENIE_‼️_0" class="internal-link" target="_self" rel="noopener nofollow">PIERWSZE URUCHOMIENIE ‼️</a> <br><a data-href="#Sources" href="amongus-mody-animebaby.html#Sources_0" class="internal-link" target="_self" rel="noopener nofollow">Sources</a>
+Instrukcja sporządzona dla wersji gry:
+steam: 17.1s build 6324<br>
+<img alt="Pasted image 20260113215022.png" src="img/pasted-image-20260113215022.png" target="_self">
+epic games: 17.1e build 6329<br>
+<img alt="Pasted image 20260113214102.png" src="img/pasted-image-20260113214102.png" target="_self">
+Pliki hostowane na mojej chmurze, pobrane ze źródeł poniżej, CrowdedMod skompilowany z nieoficjalnym patchem by zapewnić kompatybilność gry z aktualną wersją.<br><a rel="noopener nofollow" class="external-link is-unresolved" href="https://app.filen.io/#/f/b9f3cd8a-319a-468d-944f-b451970ede7d%23QlBgdNA1JKPgQMKW6tY6gEI7gWYSa7eE" target="_self">https://app.filen.io/#/f/b9f3cd8a-319a-468d-944f-b451970ede7d%23QlBgdNA1JKPgQMKW6tY6gEI7gWYSa7eE</a>
+hasło: AnimeBabyCBJFeuren
+steam: TouMira-v1.5.1-x86-steam-itch.zip
+epic: TouMira-v1.5.1-x64-epic-msstore.zip CrowdedMod.dll Pobierz grę na launcherze Steam 🤔
+Znajdź pliki gry 📂 Przykładowo przez ikonę zębatki ⚙️<br>
+<img alt="Pasted image 20260113215454.png" src="img/pasted-image-20260113215454.png" target="_self"> Cofnij się 1 folder wstecz ⬆️<br>
+<img alt="Pasted image 20260113215753.png" src="img/pasted-image-20260113215753.png" target="_self">
+Stwórz kopie folderu z grą i wejdź we właśnie skopiowany folder gry na modach np. Among Us Modded ↔️<br>
+<img alt="Pasted image 20260113220012.png" src="img/pasted-image-20260113220012.png" target="_self">
+Otwórz odpowiedni plik Town of Us 🗃️<br>
+<img alt="Pasted image 20260113220848.png" src="img/pasted-image-20260113220848.png" target="_self">
+Wejdź w folder w środku archiwum i przeżuć pliki wewnątrz pliku .zip do folderu z grą ⬅️
+(tego który nazwałeś np. Among Us Modded) ⚠️<br>
+<img alt="Pasted image 20260113221136.png" src="img/pasted-image-20260113221136.png" target="_self"><br>
+<img alt="Pasted image 20260113221234.png" src="img/pasted-image-20260113221234.png" target="_self">
+Folder powinien wyglądać tak‼️:<br>
+<img alt="Pasted image 20260113221331.png" src="img/pasted-image-20260113221331.png" target="_self">
+Wejdź w kolejno w foldery/ścieżkę BepInEx/plugins/ zobaczysz: 👁️👁️<br>
+<img alt="Pasted image 20260113222117.png" src="img/pasted-image-20260113222117.png" target="_self">
+Wklej pobrany plik CrowdedMod.dll do środka:<br>
+<img alt="Pasted image 20260113222234.png" src="img/pasted-image-20260113222234.png" target="_self">
+Cofnij się do folderu z modowaną grą np. Among Us Modded, grę należy uruchamiać przez plik Among Us.exe z tego katalogu. (Pierwsze uruchomienie gry może potrwać dłużej! ⚠️) Upewnij się, że mody mają odpowiednią wersje jak na obrazku: ⚠️⚠️⚠️<br>
+<img alt="Pasted image 20260113223639.png" src="img/pasted-image-20260113223639.png" target="_self"> Pobierz grę na launcherze EpicGames 🤔
+Znajdź pliki gry 📂 Przykładowo przez trzy kropeczki i opcje Manage/Zarządzaj ⚙️<br>
+<img alt="Pasted image 20260113223153.png" src="img/pasted-image-20260113223153.png" target="_self">
+Wybierz ikonkę folderu z lupką aby otworzyć folder z grą 🔎<br>
+<img alt="Pasted image 20260113223234.png" src="img/pasted-image-20260113223234.png" target="_self"> Cofnij się 1 folder wstecz ⬆️<br>
+<img alt="Pasted image 20260113224617.png" src="img/pasted-image-20260113224617.png" target="_self">
+Stwórz kopie folderu z grą i wejdź we właśnie skopiowany folder gry na modach np. AmongUs Modded ↔️<br>
+<img alt="Pasted image 20260113224712.png" src="img/pasted-image-20260113224712.png" target="_self">
+Otwórz odpowiedni plik Town of Us 🗃️<br>
+<img alt="Pasted image 20260113224853.png" src="img/pasted-image-20260113224853.png" target="_self">
+Wejdź w folder w środku archiwum i przeżuć pliki wewnątrz pliku .zip do folderu z grą ⬅️
+(tego który nazwałeś np. AmongUs Modded) ⚠️<br>
+<img alt="Pasted image 20260113224939.png" src="img/pasted-image-20260113224939.png" target="_self"><br>
+<img alt="Pasted image 20260113225007.png" src="img/pasted-image-20260113225007.png" target="_self"> Folder powinien wyglądać tak‼️:<br>
+<img alt="Pasted image 20260113225106.png" src="img/pasted-image-20260113225106.png" target="_self"> Wejdź w kolejno w foldery/ścieżkę BepInEx/plugins/ zobaczysz: 👁️👁️<br>
+<img alt="Pasted image 20260113225156.png" src="img/pasted-image-20260113225156.png" target="_self">
+Wklej pobrany plik CrowdedMod.dll do środka:<br>
+<img alt="Pasted image 20260113225239.png" src="img/pasted-image-20260113225239.png" target="_self">
+Cofnij się do folderu z modowaną grą np. AmongUs Modded, grę należy uruchamiać przez plik EpicGamesStarter.exe z tego katalogu. (Pierwsze uruchomienie gry może potrwać dłużej, a plik EpicGamesStarter.exe czasem wymaga uruchomienia jako administrator ⚠️)
+Zmodowany folder AmongUs Modded nie może znajdować się w podścieżce Program Files
+❌ C:\Program Files\Epic Games\AmongUs Modded
+✔️ C:\AmongUs Modded Uruchamiamy plik EpicGamesStarter.exe, powinno pokazać nam się okno:<br>
+<img alt="Pasted image 20260113230053.png" src="img/pasted-image-20260113230053.png" target="_self">
+A w przeglądarce pojawi się logowanie:<br>
+<img alt="Pasted image 20260113230127.png" src="img/pasted-image-20260113230127.png" target="_self">
+Po zalogowaniu się pojawi się podsumowanie z kodem do skopiowania:<br>
+<img alt="Pasted image 20260113230331.png" src="img/pasted-image-20260113230331.png" target="_self">
+Kopiujemy kod bez cudzysłowów i wklejamy do naszego terminala z kroku 1.
+(ctrl + v lub shift + ins):<br>
+<img alt="Pasted image 20260113230512.png" src="img/pasted-image-20260113230512.png" target="_self">
+Klikamy Enter. Od teraz gra zapisze ten kod i można normalnie uruchamiać jak opisano wcześniej przez plik EpicGamesStarter.exe. <br><a rel="noopener nofollow" class="external-link is-unresolved" href="https://github.com/CrowdedMods/CrowdedMod" target="_self">https://github.com/CrowdedMods/CrowdedMod</a> <br><a rel="noopener nofollow" class="external-link is-unresolved" href="https://github.com/CrowdedMods/CrowdedMod/compare/master...LimeShep:CrowdedMod:master" target="_self">https://github.com/CrowdedMods/CrowdedMod/compare/master...LimeShep:CrowdedMod:master</a> <br><a rel="noopener nofollow" class="external-link is-unresolved" href="https://github.com/AU-Avengers/TOU-Mira/releases/tag/1.5.1" target="_self">https://github.com/AU-Avengers/TOU-Mira/releases/tag/1.5.1</a>
+<br>windows install: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://au-avengers.github.io/docs.toum.gg/docs/category/windows-install" target="_self">https://au-avengers.github.io/docs.toum.gg/docs/category/windows-install</a>
+ostatnia aktualizacja 13.01.2026 r.]]></description><link>amongus-mody-animebaby.html</link><guid isPermaLink="false">AmongUs mody animebaby.md</guid><pubDate>Tue, 13 Jan 2026 22:09:38 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
